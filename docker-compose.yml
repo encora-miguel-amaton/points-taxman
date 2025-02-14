@@ -1,0 +1,6 @@
+services:
+  backend:
+    image: ptsdocker16/interview-test-server
+
+    ports:
+      - "8080:5001"

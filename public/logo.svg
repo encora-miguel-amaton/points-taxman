@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" class="w-48 h-48">
+  <!-- Main shapes -->
+  <circle cx="120" cy="120" r="40" fill="red" stroke="black" stroke-width="5" />
+  <circle cx="60" cy="180" r="35" fill="green" stroke="black" stroke-width="5" />
+  <circle cx="180" cy="180" r="35" fill="blue" stroke="black" stroke-width="5" />
+</svg>
